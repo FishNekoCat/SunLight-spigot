@@ -1,4 +1,4 @@
-name: Build Forge Server Launcher
+name: Build
 
 on:
   push:
